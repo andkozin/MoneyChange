@@ -23,6 +23,7 @@ public class MoneyChange {
             //System.out.println("Купюры/монеты номиналом " + demomination + ": " + totalBanknotes);
             System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
             System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
+            System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
         }
     }
 }
