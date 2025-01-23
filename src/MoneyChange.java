@@ -25,6 +25,7 @@ public class MoneyChange {
             System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
             System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
             System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes);
+            System.out.println(banknoteType + " номиналом " + demomination + ": " + totalBanknotes); //6
         }
     }
 }
